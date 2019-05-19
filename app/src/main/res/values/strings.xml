@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Cogg V2</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="choose_button">Começar</string>
+    <string name="config_button">Configuração</string>
+    <string name="help_button">Ajuda</string>
+
+    <string name="title_activity_main">MainActivity</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+</resources>
